@@ -26,4 +26,4 @@ Basically it was inspired by TempleOS.
 
 Why should we use it?
 
-More freedom as TempleOS kernel level freedom (Ring 0) but i recommend you do not use it cuz this is not like U*IX like Operating Systems.
+More freedom as in TempleOS kernel level freedom (Ring 0) but i recommend you do not use it cuz this is not like U*IX like Operating Systems.
