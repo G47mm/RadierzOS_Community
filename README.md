@@ -16,7 +16,7 @@ Cuz for artistic purposes and as a big-hobby project to be a actual usable OS bu
 
 What is there inside the OS?
 
-Well it has a cube spinning, low level fat32 drivers, a terminal and full freedom (Ring 0).
+Well it has a cube spinning, low level fat32 drivers, a terminal and full freedom (Ring 0), etc.
 
 What made you inspired to make this OS?
 
