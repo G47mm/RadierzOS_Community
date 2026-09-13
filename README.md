@@ -1,6 +1,7 @@
 <img width="640" height="480" alt="drawing" src="https://github.com/user-attachments/assets/cf9ce13b-3cd8-4a9e-8351-1ab1fc4046af" />
 
 
+
 Welcome to the first RadierzOS Community edition launch!
 
 I will make some updates on this but this will have gnu and bsd stuff inside the OS.
