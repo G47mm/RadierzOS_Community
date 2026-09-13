@@ -12,7 +12,7 @@ Cuz that shows how determined the cube is to live until the computer shuts off.
 
 Why did i make this OS?
 
-Cuz for artistic purposes as a big-hobby project but not like GNU/Linux OR OpenBSD, FreeBSD and cuz for my purposes.
+Cuz for artistic purposes and as a big-hobby project to be a actual usable OS but not like GNU/Linux OR OpenBSD, FreeBSD and cuz for my purposes.
 
 What is there inside the OS?
 
