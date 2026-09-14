@@ -49,7 +49,7 @@ Name: RazBIOS
 
 RazBIOS is a distribution of sealBIOS that has not been published yet.
 
-This is RazBIOS:
+This is RazBIOS firmware:
 
 
 
