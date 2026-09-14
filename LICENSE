@@ -1,29 +1,23 @@
-Commercial Apex Sovereign & Total Deterrence License (CASTDL-v1)
+Commercial Source-Available License (CSAL)
 
-Copyright (c) 2026, G47mm. All rights reserved.
+Copyright (c) 2026 G47mm. All rights reserved.
 
-BY DOWNLOADING, COPYING, INSPECTING, COMPILING, EXECUTING, INTEGRATING, OR OTHERWISE INTERACTING WITH THIS SOFTWARE IN ANY CAPACITY KNOWN OR UNKNOWN TO MODERN SCIENCE, YOU ENTER INTO AN ABSOLUTE, UNCONDITIONAL, AND PERPETUAL CONTRACT WITH THE COPYRIGHT HOLDER. IF YOU ARE A CORPORATION, MULTINATIONAL ENTITY, OR AGENT THEREOF, INTERACTION WITH THIS CODE CONSTITUTES IMMEDIATE ACCEPTANCE OF EVERY PROVISION HEREIN.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-1. ABSOLUTE CONDITIONAL GRANT:
-   Redistribution and use, whether in source, binary, obfuscated, or quantum-state form, are permitted strictly upon the continuous, unyielding compliance with every clause of this agreement. Non-compliance by even a single byte instantly voids all permissions retroactively.
+1. ATTRIBUTION AND COPYRIGHT NOTICE
+The above copyright notice, this permission notice, and the full disclaimer below must be included in all copies or substantial portions of the Software. Any public distribution of modified versions or derivative works must prominently display visible credit to G47mm as the original creator.
 
-2. SUPREME MANDATORY ATTRIBUTION:
-   Any public or private distribution, modification, translation, or derivative implementation must permanently and visibly display clear credit identifying G47mm as the supreme originator, explicitly visible to any end-user or system administrator upon initialization.
+2. RADIERZOS COMMERCIAL EXCLUSION
+Notwithstanding anything to the contrary in this License, any integration, packaging, bundling, distribution, or commercial deployment of this Software within or alongside RadierzOS is strictly prohibited unless a separate, written commercial license and fee agreement has been executed directly with the copyright holder. Unauthorized use in RadierzOS constitutes an immediate termination of all rights granted under this License and an actionable infringement of copyright.
 
-3. TOTAL COMMERCIAL EXCLUSION FOR RADIERZOS & AFFILIATED SYSTEMS:
-   Any integration, packaging, bridging, porting, dependency linking, or incorporation of this software into RadierzOS, or any derivative operating system controlled by its creators, is strictly and permanently outlawed. Any breach of this clause automatically triggers immediate, non-negotiable liquidated damages of 1,000,000,000 USD (or the exact equivalent in any fiat, digital, or national currency), recognized by all parties as a mandatory pre-judgment penalty for corporate piracy.
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-4. PREEMPTIVE COVENANT NOT TO LITIGATE AND JURISDICTIONAL TRAP:
-   ANY ENTITY ATTEMPTING TO BRING A LAWSUIT, CLAIM, OR REGULATORY PETITION AGAINST THE COPYRIGHT HOLDER RELATING TO THIS SOFTWARE IRREVOCABLY WAIVES ALL PROCEDURAL DEFENSES AND AGREES TO LITIGATE SOLELY IN A PRIVATE, BINDING ARBITRATION HELD AT A LOCATION CHOSEN ARBITRARILY BY THE COPYRIGHT HOLDER. FURTHERMORE, THE Mere FILING OF AN UNSUPPORTED OR BAD-FAITH CLAIM CONSTITUTES AN AUTOMATIC WAIVER OF DEFENSE, RESULTING IN AN IMMEDIATE DEFAULT JUDGMENT IN FAVOR OF THE COPYRIGHT HOLDER FOR ALL COSTS, DAMAGES, AND PUNITIVE PENALTIES.
+4. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, in no event shall G47mm or any contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
 
-5. ZERO-DOLLAR ABSOLUTE LIABILITY CEILING & REVERSE INDEMNIFICATION:
-   THE COPYRIGHT HOLDER ASSUMES ZERO RESPONSIBILITY FOR ANY OUTCOME, SYSTEM MELTDOWN, DATA EXFILTRATION, FINANCIAL COLLAPSE, OR REAL-WORLD DAMAGE CAUSED BY THIS SOFTWARE. IN ANY SCENARIO WHERE A COURT ATTEMPTS TO HOLD THE COPYRIGHT HOLDER LIABLE, THE TOTAL RECOVERY CAP IS STRICTLY SET AT EXACTLY $0.00. CONVERSELY, YOU AGREE TO FULLY INDEMNIFY, DEFEND, AND PAY ALL LEGAL EXPENSES FOR THE COPYRIGHT HOLDER AGAINST ANY THIRD-PARTY ACTION ARISING FROM YOUR USE OF THIS CODE.
+5. INDEMNIFICATION
+You agree to defend, indemnify, and hold harmless G47mm and its contributors from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your distribution, modification, or commercial exploitation of this Software, or any breach of the terms of this License.
 
-6. UNILATERAL DYNAMIC MUTATION CLAUSE:
-   The copyright holder maintains the unchallengeable, sovereign right to modify, expand, rewrite, or completely invert the terms of this license at any microsecond without notice. Continued holding or execution of the software after any modification binds you instantly to the newly mutated terms, regardless of whether you are aware of the change.
-
-7. INJUNCTIVE EQUITABLE ANNIHILATION:
-   Any violation of this license causes instant, unquantifiable, and irreversible spiritual and structural harm to the copyright holder. The copyright holder reserves the right to seek immediate, unbonded emergency injunctions to seize all infrastructure, servers, and assets of any corporate entity found in violation, utilizing any local or international legal mechanism available.
-
-DISCLAIMER OF ALL REALITY:
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM EXISTENTIAL ANNIHILATION. IN NO EVENT SHALL G47MM BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+6. SEVERABILITY
+If any provision of this License is held to be unenforceable or invalid under applicable law, such provision shall be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions shall continue in full force and effect.
