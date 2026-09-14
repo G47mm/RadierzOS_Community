@@ -31,3 +31,10 @@ Basically it was inspired by TempleOS.
 Why should we use it?
 
 More freedom as in TempleOS kernel level freedom (Ring 0) but i recommend you do not use it cuz this is not like U*IX like Operating Systems.
+
+End of Q&A.
+
+How the OS looks like:
+
+<img width="1344" height="980" alt="swappy-20260914_215428" src="https://github.com/user-attachments/assets/6237c350-f81c-43c1-9089-d4b2096fb2ea" />
+
