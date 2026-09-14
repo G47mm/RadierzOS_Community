@@ -49,6 +49,8 @@ Name: RazBIOS
 
 RazBIOS is a distribution of sealBIOS that has not been published yet.
 
+This is RazBIOS:
+
 
 
 https://github.com/user-attachments/assets/19945e55-40b9-4da1-9507-ad7aa42bfe7e
