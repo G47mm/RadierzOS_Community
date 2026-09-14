@@ -41,7 +41,7 @@ How the OS looks like:
 https://github.com/user-attachments/assets/709e4045-ab6a-41f1-9a92-b5f69d1f7b99
 
 
-Upcomming:
+Upcoming:
 
 Coreboot distribution WIP 
 
