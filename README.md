@@ -38,3 +38,18 @@ How the OS looks like:
 
 <img width="1344" height="980" alt="swappy-20260914_215428" src="https://github.com/user-attachments/assets/6237c350-f81c-43c1-9089-d4b2096fb2ea" />
 
+https://github.com/user-attachments/assets/709e4045-ab6a-41f1-9a92-b5f69d1f7b99
+
+
+Upcomming:
+
+Coreboot distribution WIP 
+
+Name: RazBIOS
+
+RazBIOS is a distribution of sealBIOS that has not been published yet.
+
+
+
+https://github.com/user-attachments/assets/19945e55-40b9-4da1-9507-ad7aa42bfe7e
+
