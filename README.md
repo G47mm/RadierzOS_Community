@@ -47,7 +47,7 @@ Coreboot distribution WIP
 
 Name: RazBIOS
 
-RazBIOS is a distribution of sealBIOS that has not been published yet.
+RazBIOS is a distribution of seaBIOS that has not been published yet.
 
 This is RazBIOS firmware on how it looks:
 
